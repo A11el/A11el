@@ -1,0 +1,17 @@
+# Local preview workspace
+chrome-*/
+preview-*.html
+preview-*.png
+preview-*.jpg
+rendered-fragment.html
+markdown-body.json
+build_preview.py
+/hero-*.png
+/feature-hrly.png
+/work-*.png
+
+# Working artwork (production images live beside these)
+assets/dr-selam.jpg
+assets/feature-hrly.svg
+assets/work-dr-selam.svg
+assets/work-membership.svg
